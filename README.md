@@ -8,10 +8,10 @@ git clone https://github.com/briiking4/BrianaKingNYTAssignment.git
 
 cd BrianaKingNYTAssignment
 
-3. Install Dependencies
+2. Install Dependencies
 
 npm install
 
-5. Run Server (http://localhost:4000/)
+3. Run Server (http://localhost:4000/)
 
 node NYT-homework.js
