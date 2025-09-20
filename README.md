@@ -5,6 +5,7 @@ To run the code locally:
 1. Clone Repo
 
 git clone https://github.com/briiking4/BrianaKingNYTAssignment.git 
+
 cd BrianaKingNYTAssignment
 
 3. Install Dependencies
