@@ -1,6 +1,6 @@
 # BrianaKingNYTAssignment
 
-To run the code locally:
+# To run the Server locally:
 
 1. Clone Repo
 
@@ -16,8 +16,8 @@ npm install
 
 node NYT-homework.js
 
-# Now you can open: 
+# Now you can explore and run the query in Apollo: 
 
 Apollo Explorer: https://studio.apollographql.com/public/Briana-King-Assignment/variant/current/explorer
 
-In the explorer, you will find the getArticleContent query that displays article content by ID. You can change the ID in the variables section (0–3) to see different byline results.
+In the explorer, you will find a getArticleContent query that displays article content by ID. You can change the ID in the variables section (0–3) to see different byline results.
